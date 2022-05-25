@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "shareplaces",
+    "DB_PASSWORD": "shareplaces123",
+    "DB_NAME": "share-places",
+    "OPENLAYERS_API_KEY": "807660d233271c44f063603616dd651c",
+    "PRIVATE_KEY_FOR_TOKEN_GENERATION": "private_key_for_token_generation"
+  }
+}
